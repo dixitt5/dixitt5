@@ -22,3 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dixitt5&layout=compact)](https://github.com/dixitt5/github-readme-stats)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dixitt5&show_icons=true&locale=en" alt="dixitt5" /></p>
+
+[![@dixit5's Holopin board](https://holopin.io/api/user/board?user=dixit5)](https://holopin.io/@dixit5)
+
