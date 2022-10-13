@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tilajidixit@gmail.com**
 
-- ⚡ Fun fact about me **I love watching films and content that revolves around science and stuff**
+- ⚡ Fun fact about me **I love watching films and content that revolves around science and stuff :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
