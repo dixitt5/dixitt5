@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dixit Tilaji</h1>
 <h3 align="center">A Curious Developer and Dreamer.</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=for-the-badge)
+
 <p align="left"> <a href="https://twitter.com/dixit_tilaji" target="blank"><img src="https://img.shields.io/twitter/follow/dixit_tilaji?logo=twitter&style=for-the-badge" alt="dixit_tilaji" /></a> </p>
 
 - 📫 How to reach me **tilajidixit@gmail.com**
