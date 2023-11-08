@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/boldixit" target="blank"><img src="https://img.shields.io/twitter/follow/dixit_tilaji?logo=twitter&style=for-the-badge" alt="dixit_tilaji" /></a> </p>
 
-- 🔭 I’m currently working at [hypescan](hypescan.com)
+- 🔭 I’m currently working at [hypescan.com](hypescan.com)
 
 - 🌱 I’m currently learning **typescript,next**
 
