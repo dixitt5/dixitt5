@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **blockchain projects**
 
-- 👨‍💻 All of my projects are available at [dixittilaji.me](dixittilaji.me)
+- 👨‍💻 All of my projects are available at **[dixittilaji.me](dixittilaji.me)**
 
 - 💬 Ask me about **react,blockchain and next**
 
