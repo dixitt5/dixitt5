@@ -4,6 +4,6 @@ Software Craftsperson at Incubyte. I write code and talk about it a lot.
 
 Outside of work, I enjoy watching movies.
 
-If you'd like to chat about code, movies, or both — feel free to reach out: [tilajidixit@gmail.com](mailto:tilajidixit@gmail.com)
+If you'd like to chat about code, movies, or both - feel free to reach out: [tilajidixit@gmail.com](mailto:tilajidixit@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=dixitt5)
